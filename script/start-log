@@ -1,0 +1,1 @@
+java -Djava.ext.dirs=/mnt/hgfs/share/scala_dir/jar/1.2.17/ -cp logTest-1.0.jar com.leon.App

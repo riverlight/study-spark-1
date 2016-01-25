@@ -1,0 +1,1 @@
+$FLUME_HOME/bin/flume-ng agent -n agent -c $FLUME_HOME/conf -f $FLUME_HOME/conf/pull.conf  -Dflume.root.logger=INFO,console

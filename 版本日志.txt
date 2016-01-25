@@ -1,0 +1,12 @@
+v 0.01b 	2016.01.25
+1. add mfs-config file
+2. modified mfs pom file
+
+
+v 0.01a 	2016.01.22
+1. now demo support access mongoDB using name and password
+
+
+v 0.01 		2016.01.22
+1. initial version
+1. completed (log4j -> flume -> spark streaming -> mongoDB) end2end demo
