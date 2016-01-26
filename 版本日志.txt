@@ -1,3 +1,7 @@
+v 0.02a 	2016.01.26
+1. update ./start-mfs script
+
+
 v 0.02 		2016.01.26
 1. add kafka support (run in spark cluster env)
 
