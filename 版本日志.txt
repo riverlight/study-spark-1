@@ -1,3 +1,7 @@
+v 0.02 		2016.01.26
+1. add kafka support (run in spark cluster env)
+
+
 v 0.01b 	2016.01.25
 1. add mfs-config file
 2. modified mfs pom file
